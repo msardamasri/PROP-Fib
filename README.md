@@ -1,8 +1,9 @@
 # PROP-Fib
 
-# Mastermind v1.3 Grup 14.1
+## Mastermind v1.3 Grup 14.1
 
-Projecte realitzat a l'assignatura PROP (Projecte de Programació) Nota Total -> 8.7
+Projecte realitzat a l'assignatura PROP (Projecte de Programació) 
+*Nota Total -> 8.7*
 
 ### Membres del grup:
 
