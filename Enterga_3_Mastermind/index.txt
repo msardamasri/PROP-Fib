@@ -1,0 +1,5 @@
+Aquest es el directori arrel del projecte, conte els tres directoris principals:
+	-FONTS: codi del projecte
+	-EXE: executables i binaris (jar i class)
+	-DOCS: documentacio de l'entrega
+Tambe troabreu un document README.md amb les instruccions per a la compilacio i execucio del projecte, a mes d'un document amb la descripcio dels membres de l'equip.

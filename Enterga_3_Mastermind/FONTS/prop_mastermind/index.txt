@@ -1,0 +1,4 @@
+En aquest directori trobareu el codi font del projecte:
+	-bin: directori on es generen els binaris (.class) quan es compilen des del IDE o per comanda sense la configuracio del Makefile
+	-src: codi en java del projecte
+	-libs: llibreries usades per al projecte (JUnit 4.12...)

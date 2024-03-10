@@ -1,0 +1,11 @@
+main.subgrup14_1.mastermind
+main.subgrup14_1.mastermind.domini.controladors
+main.subgrup14_1.mastermind.domini.enums
+main.subgrup14_1.mastermind.domini.interficies
+main.subgrup14_1.mastermind.domini.iteradors
+main.subgrup14_1.mastermind.domini.models
+main.subgrup14_1.mastermind.excepcions
+main.subgrup14_1.mastermind.persistencia
+main.subgrup14_1.mastermind.presentacio.controladors
+main.subgrup14_1.mastermind.presentacio.vistes
+main.subgrup14_1.mastermind.utils
