@@ -1,0 +1,4 @@
+En aquest directori trobareu la documentacio de l'entrega:
+	-documentacio_mastermind.pdf: documentacio del projecte
+	-diagrama_casos_us.pdf: diagrama dels casos d'us
+	-diagrama_model_conceptual_dades.pdf: diagrama del model conceptual de les dades

@@ -1,0 +1,1 @@
+En aquest directori es generen els executables per als drivers (DriverX.jar) i un directori "output" on es generen els binaris (.class) des del Makefile. Tambe trobareu un fitxer amb la descripcio dels drivers i jocs de proves (inclosos en el codi dels drivers).

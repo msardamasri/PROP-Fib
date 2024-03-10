@@ -1,0 +1,1 @@
+En aquest directori trobareu una carpeta (prop_mastermind) que conte el codi font del nostre pojecte.
